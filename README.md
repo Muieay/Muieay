@@ -1,8 +1,7 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/Muieay/count.svg)
+累计访问次数：![Visitor Count](https://profile-counter.glitch.me/Muieay/count.svg)
 
-![Visitor Count](https://profile-counter.glitch.me/Muieay/count.svg)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
