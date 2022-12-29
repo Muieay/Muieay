@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-                              累计访问次数：![Visitor Count](https://profile-counter.glitch.me/Muieay/count.svg)
+累计访问次数：![Visitor Count](https://profile-counter.glitch.me/Muieay/count.svg)
 
