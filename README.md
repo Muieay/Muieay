@@ -11,11 +11,8 @@
 ## Hi There 👋
 <!-- Dynamic Quotes -->
 <div align="center">
-    <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default#gh-light-mode-only">
+    <a href="https://muieay.github.io?type=horizontal&theme=default#gh-light-mode-only">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
-    </a>
-    <a href="https://muieay.github.io">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
     </a>
 </div>
 
