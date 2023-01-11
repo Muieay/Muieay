@@ -8,15 +8,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+## Hi There 👋
 <!-- Dynamic Quotes -->
 <div align="center">
     <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default#gh-light-mode-only">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
     </a>
-    <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default#gh-dark-mode-only">
+<!--     <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default#gh-dark-mode-only">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-    </a>
+    </a> -->
 </div>
 
 <!-- 动态打字效果 -->
