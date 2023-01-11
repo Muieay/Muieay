@@ -13,10 +13,10 @@
 <div align="center">
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-DAE8FC?style=plastic&logo=Spring">
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-DAE8FC?style=plastic&logo=Vue.js">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-DAE8FC?style=plastic&logo=Java">
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-DAE8FC?style=plastic&logo=Go">
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DAE8FC?style=plastic&logo=Redis">
+  <img alt="MySQL" src="https://img.shields.io/badge/-SQL-DAE8FC?style=plastic&logo=MySQL">
   <img alt="Python" src="https://img.shields.io/badge/-Python-DAE8FC?style=plastic&logo=Python">
-  <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-DAE8FC?style=plastic&logo=C">
+  <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-DAE8FC?style=plastic&logo=c">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-DAE8FC?style=plastic&logo=HTML5">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-DAE8FC?style=plastic&logo=JavaScript">
   <br>
@@ -24,13 +24,14 @@
 <!-- 工具 -->
 🛠️ Tools:
 <div align="center">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-5391FE?style=flat-square&logo=windows&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black">
-  <img alt="IDEA" src="https://img.shields.io/badge/IDEA-fa4072?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
+  <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-62d1d2?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
   <img alt="Google Chrome" src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff">
   <img alt="Git" src="https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github">
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff">
 </div>
 
 <hr>
