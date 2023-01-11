@@ -26,7 +26,7 @@
 <div align="center">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black">
-  <img alt="IDEA" src="https://img.shields.io/badge/IDEA-3DDC84?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
+  <img alt="IDEA" src="https://img.shields.io/badge/IDEA-fa4072?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
   <img alt="Google Chrome" src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff">
   <img alt="Git" src="https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git">
