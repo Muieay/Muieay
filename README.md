@@ -13,7 +13,7 @@
 <div align="center">
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-DAE8FC?style=plastic&logo=Spring">
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-DAE8FC?style=plastic&logo=Vue.js">
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-DAE8FC?style=plastic&logo=Kotlin">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-DAE8FC?style=plastic&logo=Java">
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-DAE8FC?style=plastic&logo=Go">
   <img alt="Python" src="https://img.shields.io/badge/-Python-DAE8FC?style=plastic&logo=Python">
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-DAE8FC?style=plastic&logo=C">
