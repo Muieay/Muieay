@@ -7,7 +7,11 @@
 - 📫 长相影响网速，说话消耗内存
 - 😄 喜欢一个人，也喜欢一个人
 - ⚡ 不要纠结于过去,我们的每天都会从新开始
-- 🎶 [![am][am-logo]][am-url]
+- 🕒 消磨时光：
+   - [![am][am-logo]][am-url]
+   - [![em][em-logo]][em-url]
+   - [![bi][bi-logo]][bi-url]
+   - [![tk][tk-logo]][tk-url]
 
 
 
@@ -46,7 +50,11 @@
 
 累计访问次数：![Visitor Count](https://profile-counter.glitch.me/Muieay/count.svg)
 
-
-
-[am-logo]:https://img.shields.io/badge/Music-歌单-FA243C?logo='Tencent QQ'&logoColor=white&style=flat-square
+[am-logo]:https://img.shields.io/badge/Music-歌单-FA243C?logo=applemusic&logoColor=white&style=flat-square
 [am-url]:https://y.qq.com/n/ryqq/playlist/8740175452
+[em-logo]:https://img.shields.io/badge/Email-邮箱-FA243C?logo=Gmail&logoColor=white&style=flat-square
+[em-url]:https://y.qq.com/n/ryqq/playlist/8740175452
+[bi-logo]:https://img.shields.io/badge/Bilibili-B站-FA243C?logo=Bilibili&logoColor=white&style=flat-square
+[bi-url]:https://y.qq.com/n/ryqq/playlist/8740175452
+[tk-logo]:https://img.shields.io/badge/TikTok-抖音C-FA243C?logo=TikTok&logoColor=white&style=flat-square
+[tk-url]:https://y.qq.com/n/ryqq/playlist/8740175452
