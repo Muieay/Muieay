@@ -3,10 +3,14 @@
 - 🌱 梦想成为一名摄影师，去记录山川湖海
 - 👯 [博客](https://muieay.top/) && [文章](https://mh77.love/random/)
 - 🤔 正致力成为一名<kbd>ctrl</kbd> + <kbd>C</kbd>、<kbd>ctrl</kbd> + <kbd>V</kbd>优秀的CV攻城狮
+- 😆 擅长PS、Pr、Word、PowerPoint、Excel、Visio等软件的安装与卸载🥶
+- 🧑‍💻 精通Html、CSS、JavaScript、Java、Python、C、C++、VBScript等单词的拼写🐕
+- 💻 熟悉Windows、Linux、Mac、Android、IOS等系统的开关机🤡
 - 💬 不善交流的间歇性社牛🐂
 - 📫 长相影响网速，说话消耗内存
-- 😄 喜欢一个人，也喜欢一个人
+- 🥹 喜欢一个人，喜欢一个人
 - ⚡ 不要纠结于过去,我们的每天都会从新开始
+
 - 🕒 消磨时光：
    - [![am][am-logo]][am-url]
    - [![em][em-logo]][em-url]
