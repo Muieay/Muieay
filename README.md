@@ -32,7 +32,7 @@
 🛠️ Tools:
 <div align="center">
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-5391FE?style=flat-square&logo=windows&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-39baf4?style=flat-square&logo=windows&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black">
   <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-62d1d2?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
   <img alt="Google Chrome" src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white">
@@ -50,11 +50,11 @@
 
 累计访问次数：![Visitor Count](https://profile-counter.glitch.me/Muieay/count.svg)
 
-[am-logo]:https://img.shields.io/badge/Music-歌单-FA243C?logo=applemusic&logoColor=white&style=flat-square
+[am-logo]:https://img.shields.io/badge/Music-歌单-ddffea?logo=applemusic&logoColor=fee082&style=flat-square
 [am-url]:https://y.qq.com/n/ryqq/playlist/8740175452
-[em-logo]:https://img.shields.io/badge/Email-邮箱-FA243C?logo=Gmail&logoColor=white&style=flat-square
-[em-url]:https://y.qq.com/n/ryqq/playlist/8740175452
-[bi-logo]:https://img.shields.io/badge/Bilibili-B站-FA243C?logo=Bilibili&logoColor=white&style=flat-square
-[bi-url]:https://y.qq.com/n/ryqq/playlist/8740175452
-[tk-logo]:https://img.shields.io/badge/TikTok-抖音C-FA243C?logo=TikTok&logoColor=white&style=flat-square
-[tk-url]:https://y.qq.com/n/ryqq/playlist/8740175452
+[em-logo]:https://img.shields.io/badge/Email-邮箱-ff9ea8?logo=Gmail&logoColor=white&style=flat-square
+[em-url]:mailto:Muieay@outlook.com
+[bi-logo]:https://img.shields.io/badge/Bilibili-B站-62d1d2?logo=Bilibili&logoColor=62d1d2&style=flat-square
+[bi-url]:https://space.bilibili.com/1357743368
+[tk-logo]:https://img.shields.io/badge/TikTok-抖音-7a93ff?logo=TikTok&logoColor=white&style=flat-square
+[tk-url]:https://www.douyin.com/user/MS4wLjABAAAAXhFLdITJAiUO05xWsKBNLQFmwehATQ2lvisSNoQCnGs
