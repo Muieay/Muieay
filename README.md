@@ -1,12 +1,15 @@
 ## Muieay 👋
 - 🔭 一头迷茫的大学牲
 - 🌱 梦想成为一名摄影师，去记录山川湖海
-- 👯 计算机
+- 👯 [博客](https://muieay.top/) && [文章](https://mh77.love/random/)
 - 🤔 正致力成为一名<kbd>ctrl</kbd> + <kbd>C</kbd>、<kbd>ctrl</kbd> + <kbd>V</kbd>优秀的CV攻城狮
 - 💬 不善交流的间歇性社牛🐂
 - 📫 长相影响网速，说话消耗内存
 - 😄 喜欢一个人，也喜欢一个人
 - ⚡ 不要纠结于过去,我们的每天都会从新开始
+- 🎶 [![am][am-logo]][am-url]
+
+
 
 <!-- 语言技术标签 -->
 📖 Learning: 
@@ -37,10 +40,13 @@
 <hr>
 <!-- 统计 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muieay&show_icons=true&theme=radical)
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=muieay&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muieay&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Muieay&hide_title=true&hide_border=true&show_icons=true&&count_private=trueinclude_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muieay&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 <br />
 
 累计访问次数：![Visitor Count](https://profile-counter.glitch.me/Muieay/count.svg)
 
+
+
+[am-logo]:https://img.shields.io/badge/Music-歌单-FA243C?logo='Tencent QQ'&logoColor=white&style=flat-square
+[am-url]:https://y.qq.com/n/ryqq/playlist/8740175452
