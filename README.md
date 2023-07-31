@@ -60,7 +60,7 @@ counting of visitors to this page in this section started from February 1, 2023
 累计访问次数：![Visitor Count](https://profile-counter.glitch.me/Muieay/count.svg)
 
 [am-logo]:https://img.shields.io/badge/Music-歌单-ddffea?logo=applemusic&logoColor=fee082&style=flat-square
-[am-url]:https://y.qq.com/n/ryqq/playlist/8740175452
+[am-url]:https://music.muieay.top
 [em-logo]:https://img.shields.io/badge/Email-邮箱-ff9ea8?logo=Gmail&logoColor=white&style=flat-square
 [em-url]:mailto:Muieay@outlook.com
 [bi-logo]:https://img.shields.io/badge/Bilibili-B站-62d1d2?logo=Bilibili&logoColor=62d1d2&style=flat-square
