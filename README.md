@@ -1,7 +1,7 @@
 ## Muieay 👋
 - 🔭 一头迷茫的大学牲
 - 🌱 梦想成为一名摄影师，去记录山川湖海
-- 👯 [博客](https://blog.muieay.top/) && [文章](https://mh77.love/random/)
+- 👯 [博客](https://muieay.github.io/) && [文章](https://mh77.love/random/)
 - 🤔 正致力成为一名<kbd>ctrl</kbd> + <kbd>C</kbd>、<kbd>ctrl</kbd> + <kbd>V</kbd>优秀的CV攻城狮
 - 😆 擅长PS、Pr、Word、PowerPoint、Excel、Visio等软件的安装与卸载🥶
 - 🧑‍💻 精通Html、CSS、JavaScript、Java、Python、C、C++、VBScript等单词的拼写🐕
