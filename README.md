@@ -1,7 +1,7 @@
 ## Muieay 👋
-- 🔭 一头迷茫的大学牲
+- 🔭 一头迷茫的大学牲(上班版🐂🏇)
 - 🌱 梦想成为一名摄影师，去记录山川湖海
-- 👯 [博客](https://muieay.github.io/) && [文章](https://mh77.love/random/)
+- 👯 [博客](https://muieay.github.io/) && [文章](https://mh77.muieay.com/random/)
 - 🤔 正致力成为一名<kbd>ctrl</kbd> + <kbd>C</kbd>、<kbd>ctrl</kbd> + <kbd>V</kbd>优秀的CV攻城狮
 - 😆 擅长PS、Pr、Word、PowerPoint、Excel、Visio等软件的安装与卸载🥶
 - 🧑‍💻 精通Html、CSS、JavaScript、Java、Python、C、C++、VBScript等单词的拼写🐕
@@ -60,7 +60,7 @@ counting of visitors to this page in this section started from February 1, 2023
 累计访问次数：![Visitor Count](https://profile-counter.glitch.me/Muieay/count.svg)
 
 [am-logo]:https://img.shields.io/badge/Music-歌单-ddffea?logo=applemusic&logoColor=fee082&style=flat-square
-[am-url]:https://music.muieay.top
+[am-url]:https://music.muieay.com
 [em-logo]:https://img.shields.io/badge/Email-邮箱-ff9ea8?logo=Gmail&logoColor=white&style=flat-square
 [em-url]:mailto:Muieay@outlook.com
 [bi-logo]:https://img.shields.io/badge/Bilibili-B站-62d1d2?logo=Bilibili&logoColor=62d1d2&style=flat-square
