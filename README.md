@@ -28,6 +28,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-SQL-DAE8FC?style=plastic&logo=MySQL">
   <img alt="Python" src="https://img.shields.io/badge/-Python-DAE8FC?style=plastic&logo=Python">
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-DAE8FC?style=plastic&logo=c">
+  <img alt="React" src="https://img.shields.io/badge/-React-DAE8FC?style=plastic&logo=react">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-DAE8FC?style=plastic&logo=HTML5">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-DAE8FC?style=plastic&logo=JavaScript">
   <br>
@@ -43,6 +44,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github">
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff">
+   <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-444444?style=flat-square&logo=openai&logoColor=fff">
 </div>
 
 <hr>
