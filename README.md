@@ -55,7 +55,7 @@
 ### Profile Views
 counting of visitors to this page in this section started from February 1, 2023
 
-![](https://count.getloli.com/get/@Muieay.github.readme)
+![](https://count.getloli.com/@Muieay.github.readme?theme=booru-lewd&padding=8&pixelated=1&darkmode=auto&scale=1.36)
 
 <br />
 
